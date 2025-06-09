@@ -10,7 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 
 //Una vez implementamos a  ServicioWs
-//Utilizamos  a @WebService para indicar que es un WebService
+//Utilizamos  a @WebService para indicar que ,es un WebService
 // mediante la ruta del package hacia ServicioWs.
 //El endpointInterface indica que es un servicio web
 
